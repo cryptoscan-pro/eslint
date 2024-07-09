@@ -1,22 +1,22 @@
 {
-  "name": "eslint-config-jave",
-  "version": "1.4.0",
-  "description": "ESLint configuration for the Jave's projects",
+  "name": "@cryptoscan/eslint-config",
+  "version": "1.0.0",
+  "description": "ESLint configuration for the Cryptoscan projects",
   "main": "eslintrc.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/javeoff/eslint-config-jave.git"
+    "url": "git+https://github.com/cryptoscan-pro/eslint.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/javeoff/eslint-config-jave/issues"
+    "url": "https://github.com/cryptoscan-pro/eslint-config/issues"
   },
-  "homepage": "https://github.com/javeoff/eslint-config-jave#readme",
+  "homepage": "https://github.com/cryptoscan-pro/eslint-config#readme",
   "devDependencies": {
     "eslint": "^8.22.0",
     "prettier": "^2.5.0",

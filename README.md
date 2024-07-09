@@ -1,2 +1,3 @@
-# eslint-config-jave
+# Cryptoscan eslint-config
+
 Customizable my own eslint configuration.
